@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Ignacio Varela, a passionate backend Java developer!
-- 👀 I’m interested in crafting robust and efficient solutions through code.
-- 🌱 I'm currently diving into the intricacies of Spring Security to improve my skill set. And I continue in constant training with said framework.
-- 💞️ I’m looking to collaborate on real-world projects where I can sharpen both my technical and interpersonal skills.
-- 📫 How to reach me: Feel free to drop me an email at varela.ig98@gmail.com. Let's connect and create something amazing together!
+- 👋 Hola, soy Ignacio Varela, ¡un apasionado desarrollador backend de Java!
+- 👀 Estoy interesado en crear soluciones robustas y eficientes a través de código.
+- 🌱 Actualmente estoy sumergiéndome en las complejidades de Spring Cloud para mejorar mis habilidades. Y sigo en constante formación con dicho framework.
+- 💞️ Busco colaborar en proyectos del mundo real donde pueda perfeccionar mis habilidades técnicas e interpersonales.
+- 📫 Cómo comunicarse conmigo: no dude en enviarme un correo electrónico a varela.ig98@gmail.com. ¡Conectémonos y creemos algo increíble juntos!
 
 <!---
 nachova1/nachova1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
